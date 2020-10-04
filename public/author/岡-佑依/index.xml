@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>岡 佑依 | Katsuki Chousa</title>
+    <link>https://refiute.github.com/author/%E5%B2%A1-%E4%BD%91%E4%BE%9D/</link>
+      <atom:link href="https://refiute.github.com/author/%E5%B2%A1-%E4%BD%91%E4%BE%9D/index.xml" rel="self" type="application/rss+xml" />
+    <description>岡 佑依</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://refiute.github.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>岡 佑依</title>
+      <link>https://refiute.github.com/author/%E5%B2%A1-%E4%BD%91%E4%BE%9D/</link>
+    </image>
+    
+    <item>
+      <title>Positional Encoding出力長制御を用いた英日ニューラル機械翻訳の検討</title>
+      <link>https://refiute.github.com/publication/oka-2020-anlp/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/oka-2020-anlp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

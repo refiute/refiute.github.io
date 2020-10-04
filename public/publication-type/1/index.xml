@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Katsuki Chousa</title>
+    <link>https://refiute.github.com/publication-type/1/</link>
+      <atom:link href="https://refiute.github.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://refiute.github.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://refiute.github.com/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Incorporating Noisy Length Constraints into Transformer with Length-aware Positional Encodings</title>
+      <link>https://refiute.github.com/publication/oka-2020-coling/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/oka-2020-coling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpanAlign: Sentence Alignment Method based on Cross-Language Span Prediction and ILP</title>
+      <link>https://refiute.github.com/publication/chousa-2020-coling/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/chousa-2020-coling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Supervised Word Alignment Method based on Cross-Language Span Prediction using Multilingual BERT</title>
+      <link>https://refiute.github.com/publication/nagata-2020-emnlp/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/nagata-2020-emnlp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

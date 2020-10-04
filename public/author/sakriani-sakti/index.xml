@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sakriani Sakti | Katsuki Chousa</title>
+    <link>https://refiute.github.com/author/sakriani-sakti/</link>
+      <atom:link href="https://refiute.github.com/author/sakriani-sakti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sakriani Sakti</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://refiute.github.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Sakriani Sakti</title>
+      <link>https://refiute.github.com/author/sakriani-sakti/</link>
+    </image>
+    
+    <item>
+      <title>漸進的な音声認識・機械翻訳・テキスト音声合成に基づく音声から音声への同時翻訳</title>
+      <link>https://refiute.github.com/publication/nakamura-2020-asj/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/nakamura-2020-asj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>漸進的な音声認識・機械翻訳・テキスト音声合成に基づく音声から音声への同時翻訳</title>
+      <link>https://refiute.github.com/publication/sudoh-2020-anlp/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/sudoh-2020-anlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>漸進的な音声認識・機械翻訳・テキスト音声合成に基づく音声から音声への同時翻訳</title>
+      <link>https://refiute.github.com/publication/novitasari-2019-signl/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/novitasari-2019-signl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>深層学習を用いた話者認識</title>
+      <link>https://refiute.github.com/publication/chousa-2016-signl/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/chousa-2016-signl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

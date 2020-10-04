@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Katsuki Chousa</title>
+    <link>https://refiute.github.com/publication/</link>
+      <atom:link href="https://refiute.github.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://refiute.github.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://refiute.github.com/publication/</link>
+    </image>
+    
+    <item>
+      <title>Incorporating Noisy Length Constraints into Transformer with Length-aware Positional Encodings</title>
+      <link>https://refiute.github.com/publication/oka-2020-coling/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/oka-2020-coling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpanAlign: Sentence Alignment Method based on Cross-Language Span Prediction and ILP</title>
+      <link>https://refiute.github.com/publication/chousa-2020-coling/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/chousa-2020-coling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Supervised Word Alignment Method based on Cross-Language Span Prediction using Multilingual BERT</title>
+      <link>https://refiute.github.com/publication/nagata-2020-emnlp/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/nagata-2020-emnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bilingual Text Extraction as Reading Comprehension</title>
+      <link>https://refiute.github.com/publication/chousa-2020-bilingual/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/chousa-2020-bilingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Positional Encoding出力長制御を用いた英日ニューラル機械翻訳の検討</title>
+      <link>https://refiute.github.com/publication/oka-2020-anlp/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/oka-2020-anlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>漸進的な音声認識・機械翻訳・テキスト音声合成に基づく音声から音声への同時翻訳</title>
+      <link>https://refiute.github.com/publication/nakamura-2020-asj/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/nakamura-2020-asj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>漸進的な音声認識・機械翻訳・テキスト音声合成に基づく音声から音声への同時翻訳</title>
+      <link>https://refiute.github.com/publication/sudoh-2020-anlp/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/sudoh-2020-anlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous Neural Machine Translation using Connectionist Temporal Classification</title>
+      <link>https://refiute.github.com/publication/chousa-2019-simul-ctc/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/chousa-2019-simul-ctc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>漸進的な音声認識・機械翻訳・テキスト音声合成に基づく音声から音声への同時翻訳</title>
+      <link>https://refiute.github.com/publication/novitasari-2019-signl/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/novitasari-2019-signl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>英日同時翻訳のためのConnectionist Temporal Classificationを用いたニューラル機械翻訳</title>
+      <link>https://refiute.github.com/publication/chousa-2019-signl/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/chousa-2019-signl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>単語分散表現に基づいた誤差によるニューラル機械翻訳の学習</title>
+      <link>https://refiute.github.com/publication/chousa-2019-wordemb/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/chousa-2019-wordemb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>英日同時通訳におけるニューラル機械翻訳の検討</title>
+      <link>https://refiute.github.com/publication/chousa-2019-simultaneous/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/chousa-2019-simultaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Neural Machine Translation using Word Embedding-based Loss</title>
+      <link>https://refiute.github.com/publication/chousa-2018-embed/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/chousa-2018-embed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>転移学習による画像説明文の選択</title>
+      <link>https://refiute.github.com/publication/chousa-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/chousa-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>深層学習を用いた話者認識</title>
+      <link>https://refiute.github.com/publication/chousa-2016-signl/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/chousa-2016-signl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>深層学習を用いた話者認識</title>
+      <link>https://refiute.github.com/publication/chousa-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/chousa-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

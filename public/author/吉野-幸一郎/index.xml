@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>吉野 幸一郎 | Katsuki Chousa</title>
+    <link>https://refiute.github.com/author/%E5%90%89%E9%87%8E-%E5%B9%B8%E4%B8%80%E9%83%8E/</link>
+      <atom:link href="https://refiute.github.com/author/%E5%90%89%E9%87%8E-%E5%B9%B8%E4%B8%80%E9%83%8E/index.xml" rel="self" type="application/rss+xml" />
+    <description>吉野 幸一郎</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://refiute.github.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>吉野 幸一郎</title>
+      <link>https://refiute.github.com/author/%E5%90%89%E9%87%8E-%E5%B9%B8%E4%B8%80%E9%83%8E/</link>
+    </image>
+    
+    <item>
+      <title>深層学習を用いた話者認識</title>
+      <link>https://refiute.github.com/publication/chousa-2016-signl/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/chousa-2016-signl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
