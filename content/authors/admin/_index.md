@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Member of Linguistics Intelligence Research Group, Innovative Communication Loboratory
+role: Member of Linguistics Intelligence Research Group, Innovative Communication Laboratory
 
 # Organizations/Affiliations
 organizations:
