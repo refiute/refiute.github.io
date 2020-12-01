@@ -1,10 +1,15 @@
-@inproceedings{oka2020coling,
- author = {Yui Oka and Katsuki Chousa and Katsuhito Sudoh and Satoshi Nakamura},
- booktitle = {Proceedings of the 28th International Conference on Computational Linguistics (COLING'2020)},
- month = {12},
- pages = {XX--XX},
- publisher = {Association for Computational Linguistics},
- title = {Incorporating Noisy Length Constraints into Transformer with Length-aware Positional Encodings},
- year = {2020}
+@inproceedings{oka-etal-2020-incorporating,
+    title = "Incorporating Noisy Length Constraints into Transformer with Length-aware Positional Encodings",
+    author = "Oka, Yui  and
+      Chousa, Katsuki  and
+      Sudoh, Katsuhito  and
+      Nakamura, Satoshi",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.coling-main.319",
+    pages = "3580--3585",
+    abstract = "Neural Machine Translation often suffers from an under-translation problem due to its limited modeling of output sequence lengths. In this work, we propose a novel approach to training a Transformer model using length constraints based on length-aware positional encoding (PE). Since length constraints with exact target sentence lengths degrade translation performance, we add random noise within a certain window size to the length constraints in the PE during the training. In the inference step, we predict the output lengths using input sequences and a BERT-based length prediction model. Experimental results in an ASPEC English-to-Japanese translation showed the proposed method produced translations with lengths close to the reference ones and outperformed a vanilla Transformer (especially in short sentences) by 3.22 points in BLEU. The average translation results using our length prediction model were also better than another baseline method using input lengths for the length constraints. The proposed noise injection improved robustness for length prediction errors, especially within the window size.",
 }
-

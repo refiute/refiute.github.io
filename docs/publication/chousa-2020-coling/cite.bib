@@ -1,10 +1,14 @@
-@inproceedings{chousa2020coling,
- author = {Katsuki Chousa and Masaaki Nagata and Masaaki Nishino},
- booktitle = {Proceedings of the 28th International Conference on Computational Linguistics (COLING'2020)},
- month = {12},
- pages = {XX--XX},
- publisher = {Association for Computational Linguistics},
- title = {SpanAlign: Sentence Alignment Method based on Cross-Language Span Prediction and ILP},
- year = {2020}
+@inproceedings{chousa-etal-2020-spanalign,
+    title = "{S}pan{A}lign: Sentence Alignment Method based on Cross-Language Span Prediction and {ILP}",
+    author = "Chousa, Katsuki  and
+      Nagata, Masaaki  and
+      Nishino, Masaaki",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.coling-main.418",
+    pages = "4750--4761",
+    abstract = "We propose a novel method of automatic sentence alignment from noisy parallel documents. We first formalize the sentence alignment problem as the independent predictions of spans in the target document from sentences in the source document. We then introduce a total optimization method using integer linear programming to prevent span overlapping and obtain non-monotonic alignments. We implement cross-language span prediction by fine-tuning pre-trained multilingual language models based on BERT architecture and train them using pseudo-labeled data obtained from unsupervised sentence alignment method. While the baseline methods use sentence embeddings and assume monotonic alignment, our method can capture the token-to-token interaction between the tokens of source and target text and handle non-monotonic alignments. In sentence alignment experiments on English-Japanese, our method achieved 70.3 F1 scores, which are +8.0 points higher than the baseline method. In particular, our method improved by +53.9 F1 scores for extracting non-parallel sentences. Our method improved the downstream machine translation accuracy by 4.1 BLEU scores when the extracted bilingual sentences are used for fine-tuning a pre-trained Japanese-to-English translation model.",
 }
-
