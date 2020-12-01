@@ -5,12 +5,20 @@
     <link>https://refiute.github.com/author/satoshi-nakamura/</link>
       <atom:link href="https://refiute.github.com/author/satoshi-nakamura/index.xml" rel="self" type="application/rss+xml" />
     <description>Satoshi Nakamura</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://refiute.github.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Satoshi Nakamura</title>
       <link>https://refiute.github.com/author/satoshi-nakamura/</link>
     </image>
+    
+    <item>
+      <title>Incorporating Noisy Length Constraints into Transformer with Length-aware Positional Encodings</title>
+      <link>https://refiute.github.com/publication/oka-2020-coling/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/oka-2020-coling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Simultaneous Neural Machine Translation using Connectionist Temporal Classification</title>

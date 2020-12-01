@@ -6,7 +6,10 @@ title: Incorporating Noisy Length Constraints into Transformer with Length-aware
 subtitle: ''
 summary: ''
 authors:
-- Yui Oka, Katsuki Chousa Katsuhito Sudoh, Satoshi Nakamura
+- Yui Oka
+- Katsuki Chousa
+- Katsuhito Sudoh
+- Satoshi Nakamura
 tags: []
 categories: []
 date: '2020-12-01'
