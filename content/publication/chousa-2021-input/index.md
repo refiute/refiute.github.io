@@ -36,6 +36,8 @@ abstract: 'This paper describes our systems that were submitted to the restricte
 publication: 'Proceedings of the 8th Workshop on Asian Translation (WAT 2021)'
 
 links:
+- name: Paper
+  url: https://aclanthology.org/2021.wat-1.3/
 - name: arXiv
   url: https://arxiv.org/abs/2106.05450
 
