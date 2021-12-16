@@ -34,11 +34,12 @@ publishDate: '2020-10-04T13:08:28.682732Z'
 publication_types:
 - 1
 abstract: ''
-publication: "*Proceedings of the 28th International Conference on Computational Linguistics\
-  \ (COLING'2020)*"
+publication: "Proceedings of the 28th International Conference on Computational Linguistics (COLING'2020)"
 
 links:
 - name: Paper
   url: https://www.aclweb.org/anthology/2020.coling-main.418/
+- name: Code
+  url: https://github.com/nttcslab-nlp/spanalign
 
 ---

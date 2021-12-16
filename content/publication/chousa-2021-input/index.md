@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Input Augmentation Improves Constrained Beam Search for Neural Machine Translation:
-  NTT at WAT 2021'
+title: 'Input Augmentation Improves Constrained Beam Search for Neural Machine Translation: NTT at WAT 2021'
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +31,11 @@ projects: []
 publishDate: '2021-06-11T00:59:32.871824Z'
 publication_types:
 - 1
-abstract: 'This paper describes our systems that were submitted to the restricted translation task at WAT 2021. In this task, the systems are required to output translated sentences that contain all given word constraints. Our system combined input augmentation and constrained beam search algorithms. Through experiments, we found that this combination significantly improves translation accuracy and can save inference time while containing all the constraints in the output. For both En->Ja and Ja->En, our systems obtained the best evaluation performances in automatic and human evaluation.'
+abstract: "
+    <span style='color:red'>**First place in all of the participated subtasks (ASPEC Ja-En, En-Ja)**</span><br>
+    This paper describes our systems that were submitted to the restricted translation task at WAT 2021. In this task, the systems are required to output translated sentences that contain all given word constraints. Our system combined input augmentation and constrained beam search algorithms. Through experiments, we found that this combination significantly improves translation accuracy and can save inference time while containing all the constraints in the output. For both En->Ja and Ja->En, our systems obtained the best evaluation performances in automatic and human evaluation.
+"
+
 publication: 'Proceedings of the 8th Workshop on Asian Translation (WAT 2021)'
 
 links:
