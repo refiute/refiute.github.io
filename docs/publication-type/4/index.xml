@@ -5,12 +5,28 @@
     <link>https://refiute.github.com/publication-type/4/</link>
       <atom:link href="https://refiute.github.com/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://refiute.github.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>4</title>
       <link>https://refiute.github.com/publication-type/4/</link>
     </image>
+    
+    <item>
+      <title>JParaCrawl v3.0: 大規模日英対訳コーパス</title>
+      <link>https://refiute.github.com/publication/morishita-etal-2022-anlp/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/morishita-etal-2022-anlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自然言語推論と再現器を用いたSplit and Rephraseにおける生成文の品質向上</title>
+      <link>https://refiute.github.com/publication/tsukagoshi-etal-2022-anlp/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/tsukagoshi-etal-2022-anlp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Positional Encoding出力長制御を用いた英日ニューラル機械翻訳の検討</title>

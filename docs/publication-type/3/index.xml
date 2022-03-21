@@ -5,12 +5,20 @@
     <link>https://refiute.github.com/publication-type/3/</link>
       <atom:link href="https://refiute.github.com/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://refiute.github.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://refiute.github.com/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>JParaCrawl v3.0: A Large-scale English-Japanese Parallel Corpus</title>
+      <link>https://refiute.github.com/publication/morishita-etal-2022-jparacrawl-v-3/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/morishita-etal-2022-jparacrawl-v-3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bilingual Text Extraction as Reading Comprehension</title>

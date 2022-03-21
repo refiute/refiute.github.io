@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>鈴木 潤 | Katsuki Chousa</title>
+    <link>https://refiute.github.com/author/%E9%88%B4%E6%9C%A8-%E6%BD%A4/</link>
+      <atom:link href="https://refiute.github.com/author/%E9%88%B4%E6%9C%A8-%E6%BD%A4/index.xml" rel="self" type="application/rss+xml" />
+    <description>鈴木 潤</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://refiute.github.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>鈴木 潤</title>
+      <link>https://refiute.github.com/author/%E9%88%B4%E6%9C%A8-%E6%BD%A4/</link>
+    </image>
+    
+    <item>
+      <title>JParaCrawl v3.0: 大規模日英対訳コーパス</title>
+      <link>https://refiute.github.com/publication/morishita-etal-2022-anlp/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/morishita-etal-2022-anlp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
