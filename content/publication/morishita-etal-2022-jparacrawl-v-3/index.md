@@ -32,13 +32,15 @@ image:
 projects: []
 publishDate: '2022-03-21T04:19:34.740596Z'
 publication_types:
-- 3
+- 1
 abstract: "
 Most current machine translation models are mainly trained with parallel corpora, and their translation accuracy largely depends on the quality and quantity of the corpora. Although there are billions of parallel sentences for a few language pairs, effectively dealing with most language pairs is difficult due to a lack of publicly available parallel corpora. This paper creates a large parallel corpus for English-Japanese, a language pair for which only limited resources are available, compared to such resource-rich languages as English-German. It introduces a new web-based English-Japanese parallel corpus named JParaCrawl v3.0. Our new corpus contains more than 21 million unique parallel sentence pairs, which is more than twice as many as the previous JParaCrawl v2.0 corpus. Through experiments, we empirically show how our new corpus boosts the accuracy of machine translation models on various domains. The JParaCrawl v3.0 corpus will eventually be publicly available online for research purposes.
 "
-publication: ''
+publication: 'Proceedings of the Thirteenth Language Resources and Evaluation Conference'
 
 links:
+- name: Paper
+  url: https://aclanthology.org/2022.lrec-1.721/
 - name: arXiv
   url: https://arxiv.org/abs/2202.12607
 

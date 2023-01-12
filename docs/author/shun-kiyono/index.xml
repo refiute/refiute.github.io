@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shun Kiyono | Katsuki Chousa</title>
+    <link>https://refiute.github.com/author/shun-kiyono/</link>
+      <atom:link href="https://refiute.github.com/author/shun-kiyono/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shun Kiyono</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://refiute.github.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Shun Kiyono</title>
+      <link>https://refiute.github.com/author/shun-kiyono/</link>
+    </image>
+    
+    <item>
+      <title>NT5 at WMT 2022 General Translation Task</title>
+      <link>https://refiute.github.com/publication/morishita-etal-2022-nt-5/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/morishita-etal-2022-nt-5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
