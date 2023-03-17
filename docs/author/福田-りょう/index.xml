@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>福田 りょう | Katsuki Chousa</title>
+    <link>https://refiute.github.com/author/%E7%A6%8F%E7%94%B0-%E3%82%8A%E3%82%87%E3%81%86/</link>
+      <atom:link href="https://refiute.github.com/author/%E7%A6%8F%E7%94%B0-%E3%82%8A%E3%82%87%E3%81%86/index.xml" rel="self" type="application/rss+xml" />
+    <description>福田 りょう</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://refiute.github.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>福田 りょう</title>
+      <link>https://refiute.github.com/author/%E7%A6%8F%E7%94%B0-%E3%82%8A%E3%82%87%E3%81%86/</link>
+    </image>
+    
+    <item>
+      <title>文脈情報を考慮した高速な日英文アラインメント</title>
+      <link>https://refiute.github.com/publication/fukuda-and-chousa-2023-anlp/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/fukuda-and-chousa-2023-anlp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

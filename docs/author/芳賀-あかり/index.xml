@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>芳賀 あかり | Katsuki Chousa</title>
+    <link>https://refiute.github.com/author/%E8%8A%B3%E8%B3%80-%E3%81%82%E3%81%8B%E3%82%8A/</link>
+      <atom:link href="https://refiute.github.com/author/%E8%8A%B3%E8%B3%80-%E3%81%82%E3%81%8B%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    <description>芳賀 あかり</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://refiute.github.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>芳賀 あかり</title>
+      <link>https://refiute.github.com/author/%E8%8A%B3%E8%B3%80-%E3%81%82%E3%81%8B%E3%82%8A/</link>
+    </image>
+    
+    <item>
+      <title>画像キャプショニングのための制約語の抽出法</title>
+      <link>https://refiute.github.com/publication/haga-etal-2023-anlp/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/haga-etal-2023-anlp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

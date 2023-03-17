@@ -5,12 +5,36 @@
     <link>https://refiute.github.com/</link>
       <atom:link href="https://refiute.github.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Katsuki Chousa</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://refiute.github.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Katsuki Chousa</title>
       <link>https://refiute.github.com/</link>
     </image>
+    
+    <item>
+      <title>文脈情報を考慮した高速な日英文アラインメント</title>
+      <link>https://refiute.github.com/publication/fukuda-and-chousa-2023-anlp/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/fukuda-and-chousa-2023-anlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>画像キャプショニングのための制約語の抽出法</title>
+      <link>https://refiute.github.com/publication/haga-etal-2023-anlp/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/haga-etal-2023-anlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>部分木の類似性に基づく言語生成技術の自動評価</title>
+      <link>https://refiute.github.com/publication/chousa-etal-2023-anlp/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://refiute.github.com/publication/chousa-etal-2023-anlp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>入力拡張と制約付きデコーディングによる語彙制約付き機械翻訳</title>
