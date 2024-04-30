@@ -6,12 +6,15 @@
 title: Katsuki Chousa # Website name
 baseURL: 'https://example.com/' # Website URL
 
+publishDir: docs
+canonifyURLs: true
+
 ############################
 ## LANGUAGE
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: true 
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
