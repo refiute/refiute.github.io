@@ -5,12 +5,30 @@
     <link>https://example.com/publication-type/paper-conference/</link>
       <atom:link href="https://example.com/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Paper-Conference</title>
       <link>https://example.com/publication-type/paper-conference/</link>
     </image>
+    
+    <item>
+      <title>JaParaPat: A Large-Scale Japanese-English Parallel Patent Application Corpus</title>
+      <link>https://example.com/publication/nagata-etal-2024-japarapat-large/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nagata-etal-2024-japarapat-large/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WikiSplit&#43;&#43;: Easy Data Refinement for Split and Rephrase</title>
+      <link>https://example.com/publication/tsukagoshi-etal-2024-wikisplit-easy/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tsukagoshi-etal-2024-wikisplit-easy/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>NT5 at WMT 2022 General Translation Task</title>

@@ -33,6 +33,24 @@
     </item>
     
     <item>
+      <title>JaParaPat: A Large-Scale Japanese-English Parallel Patent Application Corpus</title>
+      <link>https://example.com/publication/nagata-etal-2024-japarapat-large/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nagata-etal-2024-japarapat-large/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WikiSplit&#43;&#43;: Easy Data Refinement for Split and Rephrase</title>
+      <link>https://example.com/publication/tsukagoshi-etal-2024-wikisplit-easy/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tsukagoshi-etal-2024-wikisplit-easy/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>JaParaPat: 大規模日英特許対訳コーパス</title>
       <link>https://example.com/publication/nagata-etal-2024-anlp/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
@@ -439,7 +457,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-152436879&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-398654217&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -449,7 +467,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-152436879&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-398654217&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
