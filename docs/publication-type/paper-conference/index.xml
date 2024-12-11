@@ -2,79 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paper-Conference | Katsuki Chousa</title>
-    <link>https://example.com/publication-type/paper-conference/</link>
-      <atom:link href="https://example.com/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/paper-conference/</link>
+      <atom:link href="http://localhost:1313/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Paper-Conference</title>
-      <link>https://example.com/publication-type/paper-conference/</link>
+      <link>http://localhost:1313/publication-type/paper-conference/</link>
     </image>
     
     <item>
+      <title>NTTSU at WMT2024 General Translation Task</title>
+      <link>http://localhost:1313/publication/kondo-etal-2024-nttsu/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kondo-etal-2024-nttsu/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>JaParaPat: A Large-Scale Japanese-English Parallel Patent Application Corpus</title>
-      <link>https://example.com/publication/nagata-etal-2024-japarapat-large/</link>
+      <link>http://localhost:1313/publication/nagata-etal-2024-japarapat-large/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/nagata-etal-2024-japarapat-large/</guid>
+      <guid>http://localhost:1313/publication/nagata-etal-2024-japarapat-large/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>WikiSplit&#43;&#43;: Easy Data Refinement for Split and Rephrase</title>
-      <link>https://example.com/publication/tsukagoshi-etal-2024-wikisplit-easy/</link>
+      <link>http://localhost:1313/publication/tsukagoshi-etal-2024-wikisplit-easy/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/tsukagoshi-etal-2024-wikisplit-easy/</guid>
+      <guid>http://localhost:1313/publication/tsukagoshi-etal-2024-wikisplit-easy/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NT5 at WMT 2022 General Translation Task</title>
-      <link>https://example.com/publication/morishita-etal-2022-nt-5/</link>
+      <link>http://localhost:1313/publication/morishita-etal-2022-nt-5/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/morishita-etal-2022-nt-5/</guid>
+      <guid>http://localhost:1313/publication/morishita-etal-2022-nt-5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JParaCrawl v3.0: A Large-scale English-Japanese Parallel Corpus</title>
-      <link>https://example.com/publication/morishita-etal-2022-jparacrawl-v-3/</link>
+      <link>http://localhost:1313/publication/morishita-etal-2022-jparacrawl-v-3/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/morishita-etal-2022-jparacrawl-v-3/</guid>
+      <guid>http://localhost:1313/publication/morishita-etal-2022-jparacrawl-v-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Input Augmentation Improves Constrained Beam Search for Neural Machine Translation: NTT at WAT 2021</title>
-      <link>https://example.com/publication/chousa-2021-input/</link>
+      <link>http://localhost:1313/publication/chousa-2021-input/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/chousa-2021-input/</guid>
+      <guid>http://localhost:1313/publication/chousa-2021-input/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incorporating Noisy Length Constraints into Transformer with Length-aware Positional Encodings</title>
-      <link>https://example.com/publication/oka-2020-coling/</link>
+      <link>http://localhost:1313/publication/oka-2020-coling/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/oka-2020-coling/</guid>
+      <guid>http://localhost:1313/publication/oka-2020-coling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SpanAlign: Sentence Alignment Method based on Cross-Language Span Prediction and ILP</title>
-      <link>https://example.com/publication/chousa-2020-coling/</link>
+      <link>http://localhost:1313/publication/chousa-2020-coling/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/chousa-2020-coling/</guid>
+      <guid>http://localhost:1313/publication/chousa-2020-coling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Supervised Word Alignment Method based on Cross-Language Span Prediction using Multilingual BERT</title>
-      <link>https://example.com/publication/nagata-2020-emnlp/</link>
+      <link>http://localhost:1313/publication/nagata-2020-emnlp/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/nagata-2020-emnlp/</guid>
+      <guid>http://localhost:1313/publication/nagata-2020-emnlp/</guid>
       <description></description>
     </item>
     

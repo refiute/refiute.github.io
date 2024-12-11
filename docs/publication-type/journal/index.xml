@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Journal | Katsuki Chousa</title>
-    <link>https://example.com/publication-type/journal/</link>
-      <atom:link href="https://example.com/publication-type/journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/journal/</link>
+      <atom:link href="http://localhost:1313/publication-type/journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Journal</title>
-      <link>https://example.com/publication-type/journal/</link>
+      <link>http://localhost:1313/publication-type/journal/</link>
     </image>
     
     <item>
       <title>入力拡張と制約付きデコーディングによる語彙制約付き機械翻訳</title>
-      <link>https://example.com/publication/%E5%B8%96%E4%BD%90-2022/</link>
+      <link>http://localhost:1313/publication/%E5%B8%96%E4%BD%90-2022/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/%E5%B8%96%E4%BD%90-2022/</guid>
+      <guid>http://localhost:1313/publication/%E5%B8%96%E4%BD%90-2022/</guid>
       <description></description>
     </item>
     

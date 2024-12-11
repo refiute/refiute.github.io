@@ -1,0 +1,24 @@
+@inproceedings{kondo-etal-2024-nttsu,
+ abstract = {The NTTSU team′s submission leverages several large language models developed through a training procedure that includes continual pre-training and supervised fine-tuning. For paragraph-level translation, we generated synthetic paragraph-aligned data and utilized this data for training.In the task of translating Japanese to Chinese, we particularly focused on the speech domain translation. Specifically, we built Whisper models for Japanese automatic speech recognition (ASR). We used YODAS dataset for Whisper training. Since this data contained many noisy data pairs, we combined the Whisper outputs using ROVER for polishing the transcriptions. Furthermore, to enhance the robustness of the translation model against errors in the transcriptions, we performed data augmentation by forward translation from audio, using both ASR and base translation models.To select the best translation from multiple hypotheses of the models, we applied Minimum Bayes Risk decoding + reranking, incorporating scores such as COMET-QE, COMET, and cosine similarity by LaBSE.},
+ address = {Miami, Florida, USA},
+ author = {Kondo, Minato  and
+Fukuda, Ryo  and
+Wang, Xiaotian  and
+Chousa, Katsuki  and
+Nishimura, Masato  and
+Buma, Kosei  and
+Kano, Takatomo  and
+Utsuro, Takehito},
+ booktitle = {Proceedings of the Ninth Conference on Machine Translation},
+ doi = {10.18653/v1/2024.wmt-1.20},
+ editor = {Haddow, Barry  and
+Kocmi, Tom  and
+Koehn, Philipp  and
+Monz, Christof},
+ month = {November},
+ pages = {270--279},
+ publisher = {Association for Computational Linguistics},
+ title = {NTTSU at WMT2024 General Translation Task},
+ url = {https://aclanthology.org/2024.wmt-1.20},
+ year = {2024}
+}

@@ -2,199 +2,211 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/talk/example-talk/</loc>
+    <loc>http://localhost:1313/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/nagata-etal-2024-japarapat-large/</loc>
+    <loc>http://localhost:1313/publication/kondo-etal-2024-nttsu/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication-type/paper-conference/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/nagata-etal-2024-japarapat-large/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/paper-conference/</loc>
+    <loc>http://localhost:1313/publication/tsukagoshi-etal-2024-wikisplit-easy/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/tsukagoshi-etal-2024-wikisplit-easy/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/nagata-etal-2024-anlp/</loc>
+    <loc>http://localhost:1313/publication/nagata-etal-2024-anlp/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/morishita-etal-2024-anlp/</loc>
+    <loc>http://localhost:1313/publication/morishita-etal-2024-anlp/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/report/</loc>
+    <loc>http://localhost:1313/publication-type/report/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/chousa-etal-2024-anlp/</loc>
+    <loc>http://localhost:1313/publication/chousa-etal-2024-anlp/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/blog-with-jupyter/</loc>
+    <loc>http://localhost:1313/post/blog-with-jupyter/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/fukuda-and-chousa-2023-anlp/</loc>
+    <loc>http://localhost:1313/publication/fukuda-and-chousa-2023-anlp/</loc>
     <lastmod>2023-03-17T16:52:22+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/haga-etal-2023-anlp/</loc>
+    <loc>http://localhost:1313/publication/haga-etal-2023-anlp/</loc>
     <lastmod>2023-03-17T16:52:26+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/chousa-etal-2023-anlp/</loc>
+    <loc>http://localhost:1313/publication/chousa-etal-2023-anlp/</loc>
     <lastmod>2023-03-17T16:52:15+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/journal/</loc>
+    <loc>http://localhost:1313/publication-type/journal/</loc>
     <lastmod>2022-08-24T08:29:39+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/%E5%B8%96%E4%BD%90-2022/</loc>
+    <loc>http://localhost:1313/publication/%E5%B8%96%E4%BD%90-2022/</loc>
     <lastmod>2022-08-24T08:29:39+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/morishita-etal-2022-nt-5/</loc>
+    <loc>http://localhost:1313/publication/morishita-etal-2022-nt-5/</loc>
     <lastmod>2023-01-12T16:23:55+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/morishita-etal-2022-anlp/</loc>
+    <loc>http://localhost:1313/publication/morishita-etal-2022-anlp/</loc>
     <lastmod>2022-03-21T13:33:18+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/tsukagoshi-etal-2022-anlp/</loc>
+    <loc>http://localhost:1313/publication/tsukagoshi-etal-2022-anlp/</loc>
     <lastmod>2022-03-21T13:29:25+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/morishita-etal-2022-jparacrawl-v-3/</loc>
+    <loc>http://localhost:1313/publication/morishita-etal-2022-jparacrawl-v-3/</loc>
     <lastmod>2022-03-21T13:19:34+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/chousa-2021-input/</loc>
+    <loc>http://localhost:1313/publication/chousa-2021-input/</loc>
     <lastmod>2021-06-11T09:59:37+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/academic/</loc>
+    <loc>http://localhost:1313/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/category/demo/</loc>
+    <loc>http://localhost:1313/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/getting-started/</loc>
+    <loc>http://localhost:1313/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>http://localhost:1313/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://localhost:1313/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/oka-2020-coling/</loc>
+    <loc>http://localhost:1313/publication/oka-2020-coling/</loc>
     <lastmod>2020-10-04T22:08:28+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/chousa-2020-coling/</loc>
+    <loc>http://localhost:1313/publication/chousa-2020-coling/</loc>
     <lastmod>2020-10-04T22:08:28+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/nagata-2020-emnlp/</loc>
+    <loc>http://localhost:1313/publication/nagata-2020-emnlp/</loc>
     <lastmod>2020-10-04T22:08:29+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/article/</loc>
+    <loc>http://localhost:1313/publication-type/article/</loc>
     <lastmod>2020-10-04T22:08:29+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/chousa-2020-bilingual/</loc>
+    <loc>http://localhost:1313/publication/chousa-2020-bilingual/</loc>
     <lastmod>2020-10-04T22:08:29+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/oka-2020-anlp/</loc>
+    <loc>http://localhost:1313/publication/oka-2020-anlp/</loc>
     <lastmod>2020-10-04T22:08:29+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/nakamura-2020-asj/</loc>
+    <loc>http://localhost:1313/publication/nakamura-2020-asj/</loc>
     <lastmod>2020-10-04T22:08:29+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/sudoh-2020-anlp/</loc>
+    <loc>http://localhost:1313/publication/sudoh-2020-anlp/</loc>
     <lastmod>2020-10-04T22:08:29+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/chousa-2019-simul-ctc/</loc>
+    <loc>http://localhost:1313/publication/chousa-2019-simul-ctc/</loc>
     <lastmod>2020-10-04T22:08:29+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/novitasari-2019-signl/</loc>
+    <loc>http://localhost:1313/publication/novitasari-2019-signl/</loc>
     <lastmod>2020-10-04T22:08:29+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/chousa-2019-signl/</loc>
+    <loc>http://localhost:1313/publication/chousa-2019-signl/</loc>
     <lastmod>2020-10-04T22:08:29+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/writing-technical-content/</loc>
+    <loc>http://localhost:1313/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/chousa-2019-wordemb/</loc>
+    <loc>http://localhost:1313/publication/chousa-2019-wordemb/</loc>
     <lastmod>2020-10-04T22:08:30+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/chousa-2019-simultaneous/</loc>
+    <loc>http://localhost:1313/publication/chousa-2019-simultaneous/</loc>
     <lastmod>2020-10-04T22:08:30+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/slides/</loc>
+    <loc>http://localhost:1313/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/chousa-2018-embed/</loc>
+    <loc>http://localhost:1313/publication/chousa-2018-embed/</loc>
     <lastmod>2020-10-04T22:08:29+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/chousa-2017/</loc>
+    <loc>http://localhost:1313/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/chousa-2017/</loc>
     <lastmod>2020-10-04T22:08:30+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/chousa-2016-signl/</loc>
+    <loc>http://localhost:1313/publication/chousa-2016-signl/</loc>
     <lastmod>2020-10-04T22:08:30+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/chousa-2016/</loc>
+    <loc>http://localhost:1313/publication/chousa-2016/</loc>
     <lastmod>2020-10-04T22:08:30+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
