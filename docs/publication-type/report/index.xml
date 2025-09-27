@@ -5,12 +5,28 @@
     <link>https://example.com/publication-type/report/</link>
       <atom:link href="https://example.com/publication-type/report/index.xml" rel="self" type="application/rss+xml" />
     <description>Report</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Report</title>
       <link>https://example.com/publication-type/report/</link>
     </image>
+    
+    <item>
+      <title>JParaCrawl Chinese v2.0: クラウドソーシングを用いた日中対訳コーパスの構築</title>
+      <link>https://example.com/publication/nagata-etal-2025-anlp/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nagata-etal-2025-anlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>修辞構造に基づく分割統治型LLM翻訳</title>
+      <link>https://example.com/publication/tanaka-etal-2025-anlp/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tanaka-etal-2025-anlp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>JaParaPat: 大規模日英特許対訳コーパス</title>
