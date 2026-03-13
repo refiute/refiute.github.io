@@ -34,6 +34,7 @@ interests:
   - Syntactic / Semantic Parsing
   - Sequence Alignments
   - Information Retrieval
+  - Patent Information Processing
   - Machine Learning
 
 # Education to show in About widget

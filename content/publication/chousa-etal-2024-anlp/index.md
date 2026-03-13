@@ -41,7 +41,7 @@ summary: ''
 tags: []
 
 # Display this page in a list of Featured pages?
-featured: true 
+featured: true
 
 # Links
 url_pdf: ''
@@ -72,3 +72,4 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
+

@@ -33,6 +33,58 @@
     </item>
     
     <item>
+      <title>JAPAS: A Benchmark and Neural Approach for Japanese Patent S upport Relation Extraction</title>
+      <link>https://example.com/publication/chousa-sugiura-2026-japas/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/chousa-sugiura-2026-japas/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hacking Neural Evaluation Metrics with Single Hub Text</title>
+      <link>https://example.com/publication/deguchi-2026-hackingneuralevaluationmetrics/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/deguchi-2026-hackingneuralevaluationmetrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JAPAS: 日本語特許サポート要件抽出のためのベンチマーク</title>
+      <link>https://example.com/publication/chousa-sugiura-2026-anlp/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/chousa-sugiura-2026-anlp/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>単一のhubテキストがCLIPを壊す：hubnessによるクロスモーダル埋め込みの脆弱性特定</title>
+      <link>https://example.com/publication/deguchi-etal-2026-anlp/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/deguchi-etal-2026-anlp/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>構文類似度報酬を用いたGRPOを適用したReasoningモデルによる特許請求項の日英翻訳</title>
+      <link>https://example.com/publication/tsujimoto-etal-2026-anlp/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tsujimoto-etal-2026-anlp/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NTTSU at WMT2025 General Translation Task</title>
+      <link>https://example.com/publication/yin-etal-2025-nttsu/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yin-etal-2025-nttsu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>JParaCrawl Chinese v2.0: クラウドソーシングを用いた日中対訳コーパスの構築</title>
       <link>https://example.com/publication/nagata-etal-2025-anlp/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
@@ -491,7 +543,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-354972861&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-678913524&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -501,7 +553,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-354972861&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-678913524&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
