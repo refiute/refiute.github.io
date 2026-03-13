@@ -94,13 +94,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:katsuki.chousa.bg@hco.ntt.co.jp"  # For a direct email link, use "mailto:test@example.org".
-- icon: x 
-  icon_pack: fab
-  link: https://x.com/refiute
+  link: "mailto:katsuki.chousa@ntt.com"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=7j2CPVkAAAAJ
+- icon: orcid
+  icon_pack: fas
+  link: https://orcid.org/0009-0001-3197-3388
 - icon: github
   icon_pack: fab
   link: https://github.com/refiute
