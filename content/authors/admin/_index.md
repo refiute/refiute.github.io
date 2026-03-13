@@ -99,7 +99,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=7j2CPVkAAAAJ
 - icon: orcid
-  icon_pack: fas
+  icon_pack: fab
   link: https://orcid.org/0009-0001-3197-3388
 - icon: github
   icon_pack: fab
