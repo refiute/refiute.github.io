@@ -33,6 +33,30 @@
     </item>
     
     <item>
+      <title>Improving Japanese-English Patent Claim Translation via Reasoning and GRPO with Syntactic Reward</title>
+      <link>https://example.com/publication/tsujimoto-etal-2026-improving/</link>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tsujimoto-etal-2026-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Autoregressive Minimum Bayes&#39; Risk Decoding for Fast Speech Recognition</title>
+      <link>https://example.com/publication/dblp-confinterspeech-deguchi-kcd-26/</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-confinterspeech-deguchi-kcd-26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Single Hub Text Breaks CLIP: Identifying Vulnerabilities in Cross-Modal Encoders via Hubness</title>
+      <link>https://example.com/publication/deguchi-etal-2026-one/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/deguchi-etal-2026-one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>JAPAS: A Benchmark and Neural Approach for Japanese Patent S upport Relation Extraction</title>
       <link>https://example.com/publication/chousa-sugiura-2026-japas/</link>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
@@ -543,7 +567,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-485271963&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-963581427&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -553,7 +577,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-485271963&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-963581427&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
