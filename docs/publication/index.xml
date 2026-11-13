@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>単一のhubテキストがもたらすクロスモーダル埋め込みの脆弱性の特定</title>
+      <link>https://example.com/publication/deguchi-etal-2027-hub/</link>
+      <pubDate>Mon, 01 Mar 2027 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/deguchi-etal-2027-hub/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Improving Japanese-English Patent Claim Translation via Reasoning and GRPO with Syntactic Reward</title>
       <link>https://example.com/publication/tsujimoto-etal-2026-improving/</link>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>

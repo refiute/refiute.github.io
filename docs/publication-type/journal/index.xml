@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>単一のhubテキストがもたらすクロスモーダル埋め込みの脆弱性の特定</title>
+      <link>https://example.com/publication/deguchi-etal-2027-hub/</link>
+      <pubDate>Mon, 01 Mar 2027 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/deguchi-etal-2027-hub/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>入力拡張と制約付きデコーディングによる語彙制約付き機械翻訳</title>
       <link>https://example.com/publication/%E5%B8%96%E4%BD%90-2022/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
