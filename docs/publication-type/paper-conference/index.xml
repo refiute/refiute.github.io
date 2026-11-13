@@ -5,12 +5,20 @@
     <link>https://example.com/publication-type/paper-conference/</link>
       <atom:link href="https://example.com/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Mar 2027 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Paper-Conference</title>
       <link>https://example.com/publication-type/paper-conference/</link>
     </image>
+    
+    <item>
+      <title>Subtree Constraints for Syntactically Controlled Paraphrase Generation</title>
+      <link>https://example.com/publication/chousa-watanabe-2027-subtree/</link>
+      <pubDate>Tue, 09 Mar 2027 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/chousa-watanabe-2027-subtree/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improving Japanese-English Patent Claim Translation via Reasoning and GRPO with Syntactic Reward</title>

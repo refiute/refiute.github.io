@@ -6,19 +6,31 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/tsujimoto-etal-2026-improving/</loc>
-    <lastmod>2026-11-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/publication-type/paper-conference/</loc>
-    <lastmod>2026-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2027-03-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication_types/</loc>
-    <lastmod>2026-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2027-03-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/</loc>
+    <lastmod>2027-03-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/chousa-watanabe-2027-subtree/</loc>
+    <lastmod>2027-03-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/chousa-sugiura-2027-japas/</loc>
+    <lastmod>2027-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication-type/journal/</loc>
+    <lastmod>2027-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/tsujimoto-etal-2026-improving/</loc>
     <lastmod>2026-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -112,10 +124,6 @@
   </url><url>
     <loc>https://example.com/publication/chousa-etal-2023-anlp/</loc>
     <lastmod>2023-03-17T16:52:15+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication-type/journal/</loc>
-    <lastmod>2022-08-24T08:29:39+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/%E5%B8%96%E4%BD%90-2022/</loc>

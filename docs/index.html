@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: November 10, 2026 --><html lang="en-us" >
+<!-- Last Published: November 13, 2026 --><html lang="en-us" >
 
 
 <head>
@@ -1189,6 +1189,281 @@
 
   <span >
       Katsuki Chousa</span>, <span >
+      Taro Watanabe</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    March, 2027
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      EACL2027
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/chousa-watanabe-2027-subtree/" >Subtree Constraints for Syntactically Controlled Paraphrase Generation</a>
+  </div>
+
+  
+  <a href="/publication/chousa-watanabe-2027-subtree/"  class="summary-link">
+    <div class="article-style">
+      <p><span style='color:red'><strong>(To appear)</strong></span><br> Syntactically controlled paraphrase generation rewrites a sentence into a paraphrase with a specified syntactic structure. Existing methods specify the target structure as a single skeleton, typically a constituency tree pruned at a fixed height, which over-specifies unrelated structure and cannot express partial or multiple requirements. We instead propose emph subtree constraints: a set of wildcard regular expressions over a constituency tree&rsquo;s S-expression, each requiring a substructure somewhere in the tree, which strictly generalize the single skeleton. The constraints go directly into a prompt, and Qwen3-14B satisfies most of them by reasoning first, though reasoning is costly at inference. Because satisfaction is checked mechanically, we use it as a verifiable reward and train with GRPO on constraints extracted from parsed paraphrase pairs. The trained answer-only model matches or exceeds the reasoning baseline&rsquo;s constraint satisfaction with about 1/14&ndash;1/17 as many output tokens. The control transfers across languages: training on English alone improves the four non-English PAWS-X languages over the answer-only base model, and multilingual training improves them further, bringing meaning preservation nearly on par with English. Without a reference paraphrase, reusing the constraints of the input&rsquo;s nearest neighbor in a precomputed bank performs on par with reference-derived ones.</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/chousa-watanabe-2027-subtree/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  
+
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      Hiroyuki Deguchi</span>, <span >
+      Katsuki Chousa</span>, <span >
+      Yusuke Sakai</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    July, 2026
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      <em>Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)</em>
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/deguchi-etal-2026-one/" >One Single Hub Text Breaks CLIP: Identifying Vulnerabilities in Cross-Modal Encoders via Hubness</a>
+  </div>
+
+  
+  <a href="/publication/deguchi-etal-2026-one/"  class="summary-link">
+    <div class="article-style">
+      <p>The hubness problem, in which hub embeddings are close to many unrelated examples, occurs often in high-dimensional embedding spaces and may pose a practical threat for purposes such as information retrieval and automatic evaluation metrics.In particular, since cross-modal similarity between text and images cannot be calculated by direct comparisons, such as string matching, cross-modal encoders that project different modalities into a shared space are helpful for various cross-modal applications, and thus, the existence of hubs may pose practical threats.To reveal the vulnerabilities of cross-modal encoders, we propose a method for identifying the hub embedding and its corresponding hub text.Experiments on image captioning evaluation in MSCOCO and nocaps along with image-to-text retrieval tasks in MSCOCO and Flickr30k showed that our method can identify a single hub text that unreasonably achieves comparable or higher similarity scores than human-written reference captions in many images, thereby revealing the vulnerabilities in cross-modal encoders.</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/deguchi-etal-2026-one/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.18653/v1/2026.acl-long.2186" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://aclanthology.org/2026.acl-long.2186/" target="_blank" rel="noopener">
+    URL</a>
+
+
+  </div>
+  
+
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      Katsuki Chousa</span>, <span >
       Ryosuke Sugiura</span>
   </div>
   
@@ -1285,301 +1560,6 @@
 
 
 
-
-
-  </div>
-  
-
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="card-simple view-card">
-
-  
-    
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-  <span >
-      Hiroyuki Deguchi</span>, <span >
-      Katsuki Chousa</span>, <span >
-      Yusuke Sakai</span>
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    March, 2026
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-      EACL2026
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <div class="section-subheading article-title mb-1 mt-3">
-    <a href="/publication/deguchi-2026-hackingneuralevaluationmetrics/" >Hacking Neural Evaluation Metrics with Single Hub Text</a>
-  </div>
-
-  
-  <a href="/publication/deguchi-2026-hackingneuralevaluationmetrics/"  class="summary-link">
-    <div class="article-style">
-      <p>Strongly human-correlated evaluation metrics serve as an essential compass for the development and improvement of generation models and must be highly reliable and robust. Recent embedding-based neural text evaluation metrics, such as COMET for translation tasks, are widely used in both research and development fields. However, there is no guarantee that they yield reliable evaluation results due to the black-box nature of neural networks. To raise concerns about the reliability and safety of such metrics, we propose a method for finding a single adversarial text in the discrete space that is consistently evaluated as high-quality, regardless of the test cases, to identify the vulnerabilities in evaluation metrics. The single hub text found with our method achieved 79.1 COMET% and 67.8 COMET% in the WMT'24 English-to-Japanese (En&ndash;Ja) and English-to-German (En&ndash;De) translation tasks, respectively, outperforming translations generated individually for each source sentence by using M2M100, a general translation model. Furthermore, we also confirmed that the hub text found with our method generalizes across multiple language pairs such as Ja&ndash;En and De&ndash;En.</p>
-    </div>
-  </a>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/deguchi-2026-hackingneuralevaluationmetrics/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/2512.16323" target="_blank" rel="noopener">
-    arXiv</a>
-
-
-  </div>
-  
-
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="card-simple view-card">
-
-  
-    
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-  <span >
-      Minato Kondo</span>, <span >
-      Ryo Fukuda</span>, <span >
-      Xiaotian Wang</span>, <span >
-      Katsuki Chousa</span>, <span >
-      Masato Nishimura</span>, <span >
-      Kosei Buma</span>, <span >
-      Takatomo Kano</span>, <span >
-      Takehito Utsuro</span>
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    November, 2024
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-      <em>Proceedings of the Ninth Conference on Machine Translation</em>
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <div class="section-subheading article-title mb-1 mt-3">
-    <a href="/publication/kondo-etal-2024-nttsu/" >NTTSU at WMT2024 General Translation Task</a>
-  </div>
-
-  
-  <a href="/publication/kondo-etal-2024-nttsu/"  class="summary-link">
-    <div class="article-style">
-      <p><span style='color:red'><strong>First place in the English-Japanese task</strong></span><br> The NTTSU team′s submission leverages several large language models developed through a training procedure that includes continual pre-training and supervised fine-tuning. For paragraph-level translation, we generated synthetic paragraph-aligned data and utilized this data for training.In the task of translating Japanese to Chinese, we particularly focused on the speech domain translation. Specifically, we built Whisper models for Japanese automatic speech recognition (ASR). We used YODAS dataset for Whisper training. Since this data contained many noisy data pairs, we combined the Whisper outputs using ROVER for polishing the transcriptions. Furthermore, to enhance the robustness of the translation model against errors in the transcriptions, we performed data augmentation by forward translation from audio, using both ASR and base translation models.To select the best translation from multiple hypotheses of the models, we applied Minimum Bayes Risk decoding + reranking, incorporating scores such as COMET-QE, COMET, and cosine similarity by LaBSE.</p>
-    </div>
-  </a>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/kondo-etal-2024-nttsu/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.18653/v1/2024.wmt-1.20" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://aclanthology.org/2024.wmt-1.20" target="_blank" rel="noopener">
-    Paper</a>
 
 
   </div>

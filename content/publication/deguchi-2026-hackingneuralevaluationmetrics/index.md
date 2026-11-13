@@ -52,7 +52,7 @@ summary: ''
 tags: []
 
 # Display this page in a list of Featured pages?
-featured: true
+featured: false
 
 # Links
 url_pdf: ''
@@ -76,6 +76,8 @@ url_video: ''
 #   Otherwise, set `projects: []`.
 projects: []
 links:
+- name: URL
+  url: https://aclanthology.org/2026.eacl-short.13/
 - name: arXiv
   url: https://arxiv.org/abs/2512.16323
 ---

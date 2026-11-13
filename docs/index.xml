@@ -33,6 +33,23 @@
     </item>
     
     <item>
+      <title>Subtree Constraints for Syntactically Controlled Paraphrase Generation</title>
+      <link>https://example.com/publication/chousa-watanabe-2027-subtree/</link>
+      <pubDate>Tue, 09 Mar 2027 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/chousa-watanabe-2027-subtree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JAPAS: 日本語特許のサポート関係抽出のためのベンチマークとニューラル手法</title>
+      <link>https://example.com/publication/chousa-sugiura-2027-japas/</link>
+      <pubDate>Mon, 01 Mar 2027 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/chousa-sugiura-2027-japas/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Improving Japanese-English Patent Claim Translation via Reasoning and GRPO with Syntactic Reward</title>
       <link>https://example.com/publication/tsujimoto-etal-2026-improving/</link>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
@@ -567,7 +584,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-963581427&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-419623578&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -577,7 +594,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-963581427&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-419623578&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
